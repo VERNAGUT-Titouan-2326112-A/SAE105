@@ -37,7 +37,7 @@ a{
 	list-style-type: none;
 	margin: 20px;
 	text-decoration: none;
-	padding: 12px;		
+	padding: 30px;		
 }
 a:hover{
 	transition: 0.5s;
@@ -51,6 +51,7 @@ a:hover{
 	flex-wrap: wrap;
 	margin: 5px;
 }
+
 
 img.coupe{
 	float: left;
@@ -87,7 +88,7 @@ header{
 }
 @media(max-width: 10000px){
 	p{
-		font-size: 22px;
+		font-size: 38px;
 	}
 }
 
@@ -116,4 +117,13 @@ section.midbox{
 }
 h2{
 	margin: 10px;
+}
+h1{
+	display: block;
+	text-align: center;
+	 font-size: 55px;
+	 padding: 5px;
+}
+nav{
+	background-image: url("banderolle.png");
 }

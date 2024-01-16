@@ -128,3 +128,11 @@ section.kk{
 h2{
 	text-align: center;
 }
+h1{
+	 font-size: 45px;
+	 padding: -10px;
+}
+p.bb{
+	font-size: 40px;
+	padding: -10px;
+}
