@@ -1,0 +1,36 @@
+body {
+	background-image : url("5940110865_e5f6db708a_b.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+	background-color: black;
+}
+h1 {
+	color : #6DA5C0;
+}
+P {
+	color : whitesmoke;
+}
+a {
+	background-color : dimgrey;
+	color : whitesmoke;
+}
+a:hover {
+	background-color : whitesmoke;
+	color : #1B3358;
+}
+div.midbox{
+	background-color: #393F3D;
+}
+section.midbox{
+		background-color: #393F3D;
+}
+div.gg{
+	background-color: #565E5B;
+}
+nav{
+	 background-color: #747D7B;
+}
+
+table{
+	background-color: #747D7B;
+}

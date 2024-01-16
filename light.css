@@ -1,0 +1,37 @@
+body{
+  background: #B1C9EF;
+}
+h1{
+  color: #3a316e;
+}
+p{
+  color: whitesmoke;
+}
+tr{
+	color : whitesmoke ;
+} 
+table {
+  background-color: #485791 ;
+}
+a{
+  
+  background-color: #1B3358;
+  color: whitesmoke;
+}
+a:hover{
+  background-color: whitesmoke;
+  color: #1B3358;
+}
+.gg{
+  background-color:  #485791;
+}
+
+nav{
+  background-color: skyblue;
+}
+h2{
+  color: darkblue;
+}
+table{
+  background-color: #485791;
+}
