@@ -28,9 +28,11 @@ div.gg{
 	background-color: #565E5B;
 }
 nav{
-	 background-color: #747D7B;
-}
+	 background-image: url("footer.jpg");}
 
 table{
 	background-color: #747D7B;
+}
+.box{
+	background-color: #393F3D;
 }

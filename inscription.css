@@ -130,7 +130,7 @@ h2{
 }
 h1{
 	 font-size: 45px;
-	 padding: -10px;
+
 }
 p.bb{
 	font-size: 40px;
@@ -142,4 +142,9 @@ nav{
 }
 p{
 	font-size: 38px;
+}
+footer{
+	display: flex;
+	justify-content: space-between;
+	background-image: url("footer.jpg");
 }

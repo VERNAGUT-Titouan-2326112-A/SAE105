@@ -128,3 +128,11 @@ h1{
 nav{
 	background-image: url("banderolle.png");
 }
+a.foo{
+	border-radius: 70%;
+}
+footer{
+	display: flex;
+	justify-content: space-between;
+	background-image: url("footer.jpg");
+}

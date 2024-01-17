@@ -152,9 +152,17 @@ tr{
 	background-color: #5068a9;
 	vertical-align: top;
 	padding: 0.5em;
-	
 	width: 100%	;
 }
 .boox{
 	padding: 5px;
+
+}
+footer{
+	display: flex;
+	justify-content: space-between;
+	background-image: url("footer.jpg");
+	
+
+
 }
