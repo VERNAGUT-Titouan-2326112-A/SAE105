@@ -53,8 +53,8 @@ a:hover{
 	width: 100%	;
 }
 img.photo{
-	display: block;
-	margin: auto;
+	float: right;
+	padding-right: 20px;
 }
 iframe.ll{
 	display: block;
@@ -143,8 +143,18 @@ nav{
 	background-image: url("banderolle.png");
 }
 p{
-	font-size: 38px;
+	font-size: 30px;
 }
 tr{
 	font-size: 20px;
+}
+.box{
+	background-color: #5068a9;
+	vertical-align: top;
+	padding: 0.5em;
+	
+	width: 100%	;
+}
+.boox{
+	padding: 5px;
 }
